@@ -1,5 +1,5 @@
 const nombres = ['Hugo', 'Paco', 'Luis', 'Pedro', 'Hector'];
-const edades = [35, 50, 40, 18, 30];
+const edades = [25, 70, 40, 18, 50];
 
 const obtenerIndiceEdadMenor = () => {
     let menor = edades[0];
